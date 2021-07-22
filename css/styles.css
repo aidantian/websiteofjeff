@@ -13,10 +13,16 @@ body{
     box-shadow: 1px 0px 20px darkgray;
 
 }
+hr {
+    height: 500px;
+    color: white;
+    border-color: white;
+}
 a{
     text-decoration: none;
     color: darkslategrey;
-    padding: 50px;
+    margin: 100px 20px 100px 20px;
+    padding: 15px;
 }
 a:hover{
     text-shadow: 2px 2px 4px lightgray;
@@ -24,10 +30,8 @@ a:hover{
     bottom: 1px;
     right: 1px;
 }
-#covidlink{
-    display: block;
-    margin: 20px auto 20px 50px;
-}
+
+
 h1{
     margin-bottom: 0;
 }
