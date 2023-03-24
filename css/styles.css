@@ -56,7 +56,9 @@ h1{
     font-weight: 900;
 }
 
-table, th, td {
-    border: 1px solid;
-    border-color: black;
+table {
+    background-color: black;
+}
+.OSLSTitle{
+    font-size: 30px;
 }
