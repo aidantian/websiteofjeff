@@ -55,3 +55,8 @@ h1{
     color: #001a22;
     font-weight: 900;
 }
+
+table, th, td {
+    border: 1px solid;
+    border-color: black;
+}
